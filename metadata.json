@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ACode Web AI",
+  "description": "A web-based code editor inspired by Acode, featuring a powerful file explorer, syntax highlighting, and an integrated Gemini 3 AI coding assistant.",
+  "requestFramePermissions": []
+}
